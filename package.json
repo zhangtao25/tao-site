@@ -19,7 +19,7 @@
     "@nuxtjs/toast": "^3.2.1",
     "cookie-universal-nuxt": "^2.0.18",
     "highlight.js": "^9.15.10",
-    "nuxt": "^2.10.2",
+    "nuxt": "^2.15.8",
     "qs": "^6.9.0",
     "vditor": "^1.9.0",
     "vue-infinite-scroll": "^2.0.2"
