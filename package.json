@@ -20,7 +20,7 @@
     "cookie-universal-nuxt": "^2.0.18",
     "highlight.js": "^9.15.10",
     "nuxt": "^2.10.2",
-    "qs": "^6.9.0",
+    "qs": "^6.9.7",
     "vditor": "^1.9.0",
     "vue-infinite-scroll": "^2.0.2"
   },
